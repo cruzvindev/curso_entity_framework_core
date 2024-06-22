@@ -111,7 +111,7 @@ obj/
 .vscode-server-bin/
 .vscode-server-insiders/
 .vscode-server-stable/
-
+.vs/
 # npm
 node_modules/
 
