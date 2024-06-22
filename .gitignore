@@ -1,0 +1,125 @@
+# Compiled object files
+*.o
+*.i
+*.ii
+*.ll
+*.s
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+*.dylib
+*.dll
+*.drv
+*.so
+*.so.*
+*.d
+*.dll.config
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.ncb
+*.sdf
+*.opensdf
+*.pdb
+*.obj
+*.tlog
+*.log
+
+# DLL files
+*.dll
+
+# Static libraries
+*.lib
+*.a
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE directories
+.idea/
+.vscode/
+*.userprefs
+
+# MacOS files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# vscode
+.vscode/*
+
+# Windows shortcuts
+*.lnk
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings.json
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Visual Studio
+.vscode/
+.vscode-test/
+.vscode-server/
+.vscode-server-bin/
+.vscode-server-insiders/
+.vscode-server-stable/
+
+# npm
+node_modules/
+
+# Yarn
+.yarn/
+.pnp.*
+.yarn-integrity
+
+# JetBrains Rider
+.idea/
+*.sln.iml
