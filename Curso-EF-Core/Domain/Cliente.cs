@@ -8,18 +8,19 @@ using System.Threading.Tasks;
 
 namespace Curso_EF_Core.Domain;
 
-[Table("Clientes")] //Configura o nome da tabela no banco de dados
+//[Table("Clientes")] //Configura o nome da tabela no banco de dados
 public class Cliente
 {
-    [Key] //Configura Id como chave primária de Cliente
+    //[Key] //Configura Id como chave primária de Cliente
     public int Id { get; set; }
 
-    [Required] //O campo não pode ser nulo
+    //[Required] //O campo não pode ser nulo
     public string Nome { get; set; }
 
-    [Column("Phone")] //Configura o nome da coluna na base de dados
+   // [Column("Phone")] //Configura o nome da coluna na base de dados
     public string Telefone { get; set; }
     public string CEP { get; set; }
     public string Estado { get; set; }
     public string Cidade { get; set; }
+    public string Email { get; set; }
 }

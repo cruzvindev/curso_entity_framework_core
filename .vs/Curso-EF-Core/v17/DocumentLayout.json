@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\domain\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\domain\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\valueobjects\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\valueobjects\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\data\\configurations\\pedidoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\data\\configurations\\pedidoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\valueobjects\\tipofrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\valueobjects\\tipofrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\data\\configurations\\pedidoitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\data\\configurations\\pedidoitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\valueobjects\\statuspedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\valueobjects\\statuspedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\data\\configurations\\produtoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\data\\configurations\\produtoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|c:\\introdu\u00E7\u00E3o-entity-framework\\curso-ef-core\\curso-ef-core\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D46246B-E3E0-4D44-9C0F-30095DF8A832}|Curso-EF-Core\\Curso-EF-Core.csproj|solutionrelative:curso-ef-core\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,101 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\Data\\ApplicationContext.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\ApplicationContext.cs",
-              "RelativeToolTip": "Curso-EF-Core\\Data\\ApplicationContext.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAxwEIAAACGAAAA",
+              "DocumentIndex": 1,
+              "Title": "PedidoConfiguration.cs",
+              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\Configurations\\PedidoConfiguration.cs",
+              "RelativeDocumentMoniker": "Curso-EF-Core\\Data\\Configurations\\PedidoConfiguration.cs",
+              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\Configurations\\PedidoConfiguration.cs",
+              "RelativeToolTip": "Curso-EF-Core\\Data\\Configurations\\PedidoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:52:08.919Z",
+              "WhenOpened": "2024-06-22T20:03:58.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PedidoItem.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\PedidoItem.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\Domain\\PedidoItem.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\PedidoItem.cs",
-              "RelativeToolTip": "Curso-EF-Core\\Domain\\PedidoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAApAAAA",
+              "Title": "PedidoItemConfiguration.cs",
+              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\Configurations\\PedidoItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Curso-EF-Core\\Data\\Configurations\\PedidoItemConfiguration.cs",
+              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\Configurations\\PedidoItemConfiguration.cs",
+              "RelativeToolTip": "Curso-EF-Core\\Data\\Configurations\\PedidoItemConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:49:24.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\Pedido.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\Domain\\Pedido.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\Pedido.cs",
-              "RelativeToolTip": "Curso-EF-Core\\Domain\\Pedido.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:47:20.12Z",
+              "WhenOpened": "2024-06-22T20:03:50.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\Produto.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\Domain\\Produto.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\Produto.cs",
-              "RelativeToolTip": "Curso-EF-Core\\Domain\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAkAAAA",
+              "Title": "ProdutoConfiguration.cs",
+              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\Configurations\\ProdutoConfiguration.cs",
+              "RelativeDocumentMoniker": "Curso-EF-Core\\Data\\Configurations\\ProdutoConfiguration.cs",
+              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\Configurations\\ProdutoConfiguration.cs",
+              "RelativeToolTip": "Curso-EF-Core\\Data\\Configurations\\ProdutoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:45:54.467Z"
+              "WhenOpened": "2024-06-22T20:03:46.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Program.cs",
+              "RelativeDocumentMoniker": "Curso-EF-Core\\Program.cs",
+              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Program.cs",
+              "RelativeToolTip": "Curso-EF-Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:48:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Curso-EF-Core\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Curso-EF-Core\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:39:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\Cliente.cs",
               "RelativeDocumentMoniker": "Curso-EF-Core\\Domain\\Cliente.cs",
               "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\Domain\\Cliente.cs",
               "RelativeToolTip": "Curso-EF-Core\\Domain\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:44:02.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TipoProduto.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\ValueObjects\\TipoProduto.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\ValueObjects\\TipoProduto.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\ValueObjects\\TipoProduto.cs",
-              "RelativeToolTip": "Curso-EF-Core\\ValueObjects\\TipoProduto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:41:34.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TipoFrete.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\ValueObjects\\TipoFrete.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\ValueObjects\\TipoFrete.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\ValueObjects\\TipoFrete.cs",
-              "RelativeToolTip": "Curso-EF-Core\\ValueObjects\\TipoFrete.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:40:47.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StatusPedido.cs",
-              "DocumentMoniker": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\ValueObjects\\StatusPedido.cs",
-              "RelativeDocumentMoniker": "Curso-EF-Core\\ValueObjects\\StatusPedido.cs",
-              "ToolTip": "C:\\introdu\u00E7\u00E3o-entity-framework\\Curso-EF-Core\\Curso-EF-Core\\ValueObjects\\StatusPedido.cs",
-              "RelativeToolTip": "Curso-EF-Core\\ValueObjects\\StatusPedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:39:47.662Z"
+              "WhenOpened": "2024-06-22T18:55:38.344Z",
+              "EditorCaption": ""
             }
           ]
         }
